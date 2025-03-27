@@ -1,6 +1,6 @@
 # Lightweight Transformer Network for Inertial Navigation
 Code for paper: "LTNIN:Lightweight Transformer Network for Inertial Navigation"
-
+Supplement :model_LightNiT.py is based on TLIO to supplement and verify the robustness of the proposed model.
 ## Prerequisites
 
 Install dependency use pip:
@@ -49,6 +49,6 @@ x: torch.Size([128,2])
 
 ## Acknowledgements
 Thanks for RONIN [https://github.com/Sachini/ronin].
-
+Thanks for TLIO [https://github.com/CathIAS/TLIO].
 ## License
 The source code is released under GPLv3 license.
